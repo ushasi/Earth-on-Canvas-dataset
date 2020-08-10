@@ -1,4 +1,4 @@
-# Earth-on-Canvas-dataset-sample
+# Earth-on-Canvas-dataset
 <bf> A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote Sensing Images </bf>
 
 
