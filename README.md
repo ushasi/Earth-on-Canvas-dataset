@@ -1,5 +1,5 @@
 # Earth-on-Canvas-dataset-sample
-Sketch-based Aerial image retrieval for  Remote Sensing
+A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote Sensing Images
 
 
-Full dataset coming soon!!!
+Full dataset and codes coming soon!!!
