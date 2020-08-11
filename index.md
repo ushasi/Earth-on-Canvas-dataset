@@ -1,9 +1,10 @@
 ## Earth on Canvas dataset
-<bf> A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote Sensing Images </bf>
+## A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote Sensing Images
 
 
 Full dataset and codes coming soon!!!
 
+###Classes in this dataset:
 1. Airplane
 2. Baseball Diamond
 3. Buildings
