@@ -1,5 +1,5 @@
 # Earth on Canvas dataset
-<bf> A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote Sensing Images </bf>
+### A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote Sensing Images 
 
 
 Full dataset and codes coming soon!!!
@@ -21,7 +21,7 @@ Full dataset and codes coming soon!!!
 
 
 
-## Paper
+### Paper
 
 *    The paper is also available on ArXiv: [A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote Sensing Images](openaccess.thecvf.com/content_CVPRW_2020/papers/w8/Chaudhuri_A_Simplified_Framework_for_Zero-Shot_Cross-Modal_Sketch_Data_Retrieval_CVPRW_2020_paper.pdf)
 
