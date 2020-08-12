@@ -5,8 +5,8 @@
 
 ## A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote Sensing Images
 
+Download the Earth on Canvas dataset from [here](https://drive.google.com/file/d/1bCElAva8lA-BCUHrAQkDu_CK0Cb7O7cD/view?usp=sharing).
 
-Full codes coming soon!!!
 
 ### Classes in this dataset:
 1. Airplane
@@ -25,7 +25,7 @@ Full codes coming soon!!!
 14. Tennis court
 
 
-Download the Earth on Canvas dataset from [here](https://drive.google.com/file/d/1bCElAva8lA-BCUHrAQkDu_CK0Cb7O7cD/view?usp=sharing).
+Full codes coming soon!!!
 
 
 ## Paper
