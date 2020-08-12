@@ -3,7 +3,7 @@
 
 Earth on Canvas dataset Page: (https://ushasi.github.io/Earth-on-Canvas-dataset-sample/)
 
-Full dataset and codes coming soon!!!
+Full codes coming soon!!!
 
 1. Airplane
 2. Baseball Diamond
