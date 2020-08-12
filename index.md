@@ -22,7 +22,7 @@ Full codes coming soon!!!
 13. Storage tank
 14. Tennis court
 
-Download the Earth on Canvas dataset from [here](https://drive.google.com/drive/folders/10J_uHTb4qojhJ_B3qy-DvyXQe1rqeYSW?usp=sharing).
+Download the Earth on Canvas dataset from [here](https://drive.google.com/file/d/1bCElAva8lA-BCUHrAQkDu_CK0Cb7O7cD/view?usp=sharing).
 
 
 ```markdown
