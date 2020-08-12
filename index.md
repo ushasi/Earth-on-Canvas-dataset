@@ -1,5 +1,5 @@
-## Earth on Canvas dataset
-<img src=0.jpg alt="Sample Aeroplane class" width="200">
+# Earth on Canvas dataset
+<img src=0.jpg alt="Sample Aeroplane class" width="200"> <img src=0.jpg alt="Sample Aeroplane class" width="200"> <img src=0.jpg alt="Sample Aeroplane class" width="200"> <img src=0.jpg alt="Sample Aeroplane class" width="200"> <img src=0.jpg alt="Sample Aeroplane class" width="200"> <img src=0.jpg alt="Sample Aeroplane class" width="200"> <img src=0.jpg alt="Sample Aeroplane class" width="200"> <img src=0.jpg alt="Sample Aeroplane class" width="200"> <img src=0.jpg alt="Sample Aeroplane class" width="200">
 
 ## A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote Sensing Images
 
