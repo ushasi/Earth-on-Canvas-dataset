@@ -1,6 +1,8 @@
 # Earth on Canvas dataset
 <img src="79.jpg" alt="Aeroplane class" width="100" /> <img src="1.jpg" alt="Baseball Diamond class" width="100"/> <img src="2.jpg" alt="Buildings class" width="100"/> <img src="41.jpg" alt="Golf course class" width="100"/> <img src="87.jpg" alt="Freeway class" width="100"/> <img src="5.jpg" alt="Harbor class" width="100"/> <img src="64.jpg" alt="Intersection class" width="100"/> <img src="7.jpg" alt="Mobilehome park class" width="100"/> <img src="8.jpg" alt="Overpass class" width="100"/> <img src="19.jpg" alt="Parking lot class" width="100"/> <img src="34.jpg" alt="River class" width="100"/> <img src="80.jpg" alt="Runway" width="100"/> <img src="32.jpg" alt="Storage tank class" width="100"/> <img src="20.jpg" alt="Tennis court class" width="100"/>
 
+<img src="airplane00.tif" alt="Aeroplane class" width="100" /> <img src="baseballdiamond01.png" alt="Baseball Diamond class" width="100"/> <img src="buildings09.png" alt="Buildings class" width="100"/> <img src="golfcourse07.png" alt="Golf course class" width="100"/> <img src="freeway06.png" alt="Freeway class" width="100"/> <img src="harbor12.png" alt="Harbor class" width="100"/> <img src="intersection12.png" alt="Intersection class" width="100"/> <img src="mobilehomepark18.png" alt="Mobilehome park class" width="100"/> <img src="8.jpg" alt="Overpass class" width="100"/> <img src="19.jpg" alt="Parking lot class" width="100"/> <img src="34.jpg" alt="River class" width="100"/> <img src="80.jpg" alt="Runway" width="100"/> <img src="32.jpg" alt="Storage tank class" width="100"/> <img src="20.jpg" alt="Tennis court class" width="100"/>
+
 ## A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote Sensing Images
 
 
