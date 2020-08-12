@@ -24,23 +24,32 @@ Full codes coming soon!!!
 13. Storage tank
 14. Tennis court
 
+
 Download the Earth on Canvas dataset from [here](https://drive.google.com/file/d/1bCElAva8lA-BCUHrAQkDu_CK0Cb7O7cD/view?usp=sharing).
+
+
+## Paper
+
+*    The paper is also available on ArXiv: [A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote Sensing Images](openaccess.thecvf.com/content_CVPRW_2020/papers/w8/Chaudhuri_A_Simplified_Framework_for_Zero-Shot_Cross-Modal_Sketch_Data_Retrieval_CVPRW_2020_paper.pdf)
+
+*   Feel free to cite the author, if the work is any help to you:
+
+```
+@InProceedings{Chaudhuri_2020_EoC,
+author = {Chaudhuri, Ushasi and Banerjee, Biplab and Bhattacharya, Avik and Datcu, Mihai},
+title = {A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote Sensing Images},
+booktitle = {ArXiv},
+month = {Aug},
+year = {2020}
+} 
 
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 `
