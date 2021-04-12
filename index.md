@@ -5,7 +5,7 @@
 
 ## A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote Sensing Images
 
-Email the authors at ushasi@iitb.ac.in to get the dataset.
+Download the dataset from [here](https://drive.google.com/file/d/1bCElAva8lA-BCUHrAQkDu_CK0Cb7O7cD/view?usp=sharing)
 
 ### Classes in this dataset:
 1. Airplane
