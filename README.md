@@ -1,7 +1,7 @@
 # Earth on Canvas dataset
 ### A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote Sensing Images 
 
-Earth on Canvas dataset Page: (https://ushasi.github.io/Earth-on-Canvas-dataset/)
+Earth on Canvas dataset link: (https://ieee-dataport.org/open-access/earth-canvas-6)
 
 
 1. Airplane
