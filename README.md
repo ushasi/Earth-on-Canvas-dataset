@@ -1,6 +1,6 @@
 # Earth on Canvas dataset
 ### A Zero-Shot Sketch-based Inter-Modal Object Retrieval Scheme for Remote Sensing Images 
-[ArXiv](https://arxiv.org/pdf/2008.05225.pdf) | [TensorFlow](https://www.tensorflow.org/) | [Dataset](https://ieee-dataport.org/open-access/earth-canvas-6) | [Project](https://github.com/ushasi/Earth-on-Canvas-dataset/blob/gh-pages/index.md)
+[ArXiv](https://arxiv.org/pdf/2008.05225.pdf) | [TensorFlow](https://www.tensorflow.org/) | [Dataset](https://ieee-dataport.org/open-access/earth-canvas-6) | [Project](https://github.com/ushasi/Earth-on-Canvas-dataset/blob/gh-pages/index.md) | [PPT](https://github.com/ushasi/Earth-on-Canvas-dataset/blob/master/ESA_PHI_abstracts.pdf)
 
 Earth on Canvas dataset link: (https://ieee-dataport.org/open-access/earth-canvas-6)
 
